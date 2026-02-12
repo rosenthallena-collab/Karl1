@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BookOpen, Brain, Trophy, Flame, ChevronRight, RotateCw, CheckCircle, XCircle, Home, BarChart2, ArrowLeft, Star, Calculator, Languages, globe } from 'lucide-react';
+import { BookOpen, Brain, Trophy, Flame, ChevronRight, RotateCw, CheckCircle, XCircle, Home, BarChart2, ArrowLeft, Star, Calculator, Languages } from 'lucide-react';
 
 // --- MOCK DATEN (ANGEPASST FÜR 9. KLASSE GYM BAYERN) ---
 const COURSES = [
